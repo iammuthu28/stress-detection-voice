@@ -46,10 +46,9 @@ Achieved **94% accuracy** using **MFCC feature extraction** + **CNN + BiLSTM** h
 ---
 
 ## OUTPUT
-
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 440ms/step
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 33ms/step
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 23ms/step
-kishore1.wav: Predicted Stress Level -> Sad
-kishore2.wav: Predicted Stress Level -> Disgust
-kishore3.wav: Predicted Stress Level -> Fearful
+- 1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 440ms/step
+- 1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 33ms/step
+- 1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 23ms/step
+- kishore1.wav: Predicted Stress Level -> Sad
+- kishore2.wav: Predicted Stress Level -> Disgust
+- kishore3.wav: Predicted Stress Level -> Fearful
